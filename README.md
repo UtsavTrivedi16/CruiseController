@@ -1,5 +1,8 @@
 ## OS and Tools for Assignment
-Linux Mint64 on VirtualBox, Esterel V6 on Visual Studio Code with MATLAB linting and Python
+1) Linux Mint64 on VirtualBox
+2) Esterel V6
+3) Visual Studio Code with MATLAB linting
+4) Python 3.x
 ## Run instructions for GUI simulator
 The instructions to run the simulator are taken from esterelLab1.pdf on canvas
 On the terminal do:
