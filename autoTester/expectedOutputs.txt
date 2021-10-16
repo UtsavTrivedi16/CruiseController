@@ -2,4 +2,3 @@
 CruiseSpeed(0.000000) ThrottleCmd(0.000000) CruiseState(1) 
 CruiseSpeed(0.000000) ThrottleCmd(0.000000) CruiseState(1) 
 CruiseSpeed(0.000000) ThrottleCmd(51.234001) CruiseState(1) 
-CruiseSpeed(0.000000) ThrottleCmd(51.234001) CruiseState(1) 
